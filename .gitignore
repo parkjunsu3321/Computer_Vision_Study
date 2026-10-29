@@ -7,6 +7,11 @@ __pycache__/
 *.so
 Digit Recognizer/data/*.csv
 
+Cats_Dogs/data/*.csv
+Cats_Dogs/script/train/*.pth
+Cats_Dogs/data/train
+Cats_Dogs/data/test
+
 # Distribution / packaging
 .Python
 build/
