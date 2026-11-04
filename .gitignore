@@ -5,12 +5,24 @@ __pycache__/
 .bkit
 # C extensions
 *.so
+
+# Digit Recognizer
 Digit Recognizer/data/*.csv
 
+# Cats_Dogs
 Cats_Dogs/data/*.csv
 Cats_Dogs/script/train/*.pth
 Cats_Dogs/data/train
 Cats_Dogs/data/test
+
+# Global_Wheat_Detection
+Global_Wheat_Detection/data/*.csv
+Global_Wheat_Detection/data/test
+Global_Wheat_Detection/data/train
+Global_Wheat_Detection/data/yolo_dataset
+Global_Wheat_Detection/data/runs
+Global_Wheat_Detection/script/mlruns
+Global_Wheat_Detection/script/*.pt
 
 # Distribution / packaging
 .Python
