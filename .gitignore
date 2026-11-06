@@ -19,10 +19,8 @@ Cats_Dogs/data/test
 Global_Wheat_Detection/data/*.csv
 Global_Wheat_Detection/data/test
 Global_Wheat_Detection/data/train
-Global_Wheat_Detection/data/yolo_dataset
-Global_Wheat_Detection/data/runs
-Global_Wheat_Detection/script/mlruns
-Global_Wheat_Detection/script/*.pt
+Global_Wheat_Detection/output/*.pth
+Global_Wheat_Detection/output/*.csv
 
 # Distribution / packaging
 .Python
